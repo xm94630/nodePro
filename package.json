@@ -1,0 +1,17 @@
+{
+  "name": "nodePro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:xm94630/nodePro.git",
+    "type": "git"
+  },
+  "author": "xuming3 <xuming3@yiche.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  },
+  "scripts":{
+    "start":"node index"
+  }
+}
